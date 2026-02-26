@@ -3,7 +3,7 @@ import os
 
 #main
 print("=" * 20)
-print("Secure parking os")
+print("parking os")
 print("=" * 20)
 print("Selamat datang")
 print("1. Parkir Mobil")
